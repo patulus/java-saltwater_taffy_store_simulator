@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="taffyStore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/taffyStore_jar</output-path>
+    <root id="archive" name="taffyStore.jar">
+      <element id="module-output" name="taffyStore" />
+    </root>
+  </artifact>
+</component>
